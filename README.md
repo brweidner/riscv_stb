@@ -12,5 +12,5 @@ Benchmark(s):
 Compiled, synthesized, and tested in Altera Quartus 13.1 64-bit using the Stratix V: 5SGXEA7N2F45C2 device
 
 Contributors:
-Brandon Weidner
+Brandon Weidner,
 Thomas McCarthy
