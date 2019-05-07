@@ -1,0 +1,5 @@
+Best Fmax:
+	- 88.27 MHz		(Wed 3/27/19 7:16)
+
+Potential Problems:
+	- L1 cache always sets write high in miss_w, which could cause problems when we put in L2 cache
