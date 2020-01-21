@@ -14,4 +14,4 @@ Written in System Verilog and compiled, synthesized, and tested in Altera Quartu
 
 Contributors:
 Brandon Weidner,
-Thomas McCarthy
+Another Student
