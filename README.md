@@ -1,5 +1,5 @@
 # riscv_stb
-ECE 411 UIUC Final MP
+ECE 411 UIUC Senior Project
 
 Features:
 - 5-stage pipelined CPU supporting the entire RISC-V RV32I basic instruction set
